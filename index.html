@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Busca de Endereço por logradouro / CEP</title>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <img src="correios.svg" alt="logo Correios">
+        <h1>Consultar por Logradouro / CEP</h1>
+
+        <div class="search-group">
+            <input type="text" id="busca" placeholder="Ex: Barão do Rio Branco ou  89331-001" autocomplete="off">
+            <div id="lista"></div>
+        </div>
+
+        <div id="resultado-final">
+            <h2>Endereço Encontrado:</h2>
+            <p>
+                <strong id="res-titulo">Logradouro:</strong>
+                <span id="res-rua"></span>
+            </p>
+            <p><strong>Bairro:</strong> <span id="res-bairro"></span></p>
+            <p><strong>CEP:</strong> <span id="res-cep"></span></p>
+            <p><strong>Cidade/UF:</strong> <span id="res-cidade"></span></p>
+        </div>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

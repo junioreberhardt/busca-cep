@@ -1,0 +1,102 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: #f0f2f5;
+    color: #333;
+    font-size: 1.6rem;
+    padding: 4rem;
+}
+
+.container {
+    margin: auto;
+    max-width: 50rem;
+}
+
+.search-group {
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+input {
+    width: 100%;
+    padding: 1.2rem;
+    border: 0.2rem solid #00416B;
+    border-radius: 0.8rem;
+    font-size: 1.6rem;
+    box-sizing: border-box;
+    outline: none;
+    transition: 0.3s ease;
+}
+
+input:focus {
+    border-color: #FFCE00;
+    box-shadow: 0 0 0.5rem rgba(0, 65, 107, 0.3);
+}
+
+#lista {
+    display: none;
+    position: absolute;
+    width: 100%;
+    background: #fff;
+    border: 0.1rem solid #ccc;
+    box-shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.15);
+    border-radius: 0 0 0.8rem 0.8rem;
+    max-height: 28rem;
+    overflow-y: auto;
+    z-index: 999;
+}
+
+.opcao {
+    cursor: pointer;
+    padding: 1.2rem;
+    border-bottom: 0.1rem solid #eee;
+    font-size: 1.6rem;
+    transition: background 0.2s;
+}
+
+.opcao:last-child {
+    border-bottom: none;
+}
+
+.opcao:hover {
+    background: #FFCE00;
+    color: #00416B;
+    font-weight: 600;
+}
+
+#resultado-final {
+    margin-top: 2rem;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 0.8rem;
+    border-left: 0.5rem solid #00416B;
+    box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.05);
+    display: none;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.4rem;
+    color: #0071ad;
+}
+
+#resultado-final h2 {
+    margin: 0 0 1rem 0;
+    color: #00416B;
+}
+
+#resultado-final p {
+    margin: 0.5rem 0;
+    line-height: 1.4;
+}
+
+.opcao-vazia {
+    padding: 1.5rem;
+    background: #fff5f5;
+    border-left: 0.4rem solid #ef4444;
+    color: #b91c1c;
+    cursor: default;
+    border-radius: 0 0 0.8rem 0.8rem;
+}

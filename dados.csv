@@ -1,0 +1,941 @@
+Logradouro,Bairro,Cidade,UF,CEP
+Alameda Ipiranga - até 176 - lado par,Rocio Grande,São Francisco do Sul,SC,89331-120
+Avenida das Rosas - até 99998 - lado par,Rocio Grande,São Francisco do Sul,SC,89331-451
+Avenida das Rosas - até 99999 - lado ímpar,Rocio Grande,São Francisco do Sul,SC,89331-454
+Avenida Klaus Foerster,Rocio Grande,São Francisco do Sul,SC,89331-430
+Avenida Nereu Ramos - até 289 - lado ímpar,Rocio Grande,São Francisco do Sul,SC,89331-123
+Avenida Nereu Ramos - de 291/292 ao fim,Rocio Grande,São Francisco do Sul,SC,89331-260
+Avenida Nogueira,Rocio Grande,São Francisco do Sul,SC,89331-156
+Rodovia Olívio Nóbrega,Rocio Grande,São Francisco do Sul,SC,89331-183
+Rua Agenor Silva,Rocio Grande,São Francisco do Sul,SC,89331-231
+Rua Antônio Machado - até 99998/99999,Rocio Grande,São Francisco do Sul,SC,89331-207
+Rua Armando Pacheco,Rocio Grande,São Francisco do Sul,SC,89331-213
+Rua Augusto Hermam Ludvig,Rocio Grande,São Francisco do Sul,SC,89331-198
+Rua Braz Sebastião Miano - até 99999 - lado ímpar,Rocio Grande,São Francisco do Sul,SC,89331-263
+Rua das Alfazemas,Rocio Grande,São Francisco do Sul,SC,89331-439
+Rua das Azaléias,Rocio Grande,São Francisco do Sul,SC,89331-460
+Rua das Begonias,Rocio Grande,São Francisco do Sul,SC,89331-433
+Rua das Camélias,Rocio Grande,São Francisco do Sul,SC,89331-396
+Rua das Dálias,Rocio Grande,São Francisco do Sul,SC,89331-399
+Rua das Hortências,Rocio Grande,São Francisco do Sul,SC,89331-466
+Rua das Madressilvas,Rocio Grande,São Francisco do Sul,SC,89331-390
+Rua das Magnólias,Rocio Grande,São Francisco do Sul,SC,89331-472
+Rua das Tulipas,Rocio Grande,São Francisco do Sul,SC,89331-393
+Rua do Martelo,Rocio Grande,São Francisco do Sul,SC,89331-165
+Rua dos Botões de Ouro,Rocio Grande,São Francisco do Sul,SC,89331-436
+Rua dos Delfinos,Rocio Grande,São Francisco do Sul,SC,89331-402
+Rua dos Dentes de Leao,Rocio Grande,São Francisco do Sul,SC,89331-405
+Rua dos Geranios,Rocio Grande,São Francisco do Sul,SC,89331-408
+Rua dos Girassóis,Rocio Grande,São Francisco do Sul,SC,89331-463
+Rua dos Jasmins,Rocio Grande,São Francisco do Sul,SC,89331-457
+Rua dos Lírios,Rocio Grande,São Francisco do Sul,SC,89331-469
+Rua Doutor Manoel Antonio Bueno,Rocio Grande,São Francisco do Sul,SC,89331-138
+Rua Emmanuel Gomes,Rocio Grande,São Francisco do Sul,SC,89331-192
+Rua Francisco Wolke,Rocio Grande,São Francisco do Sul,SC,89331-153
+Rua Frei Martinho,Rocio Grande,São Francisco do Sul,SC,89331-228
+Rua Gertrudes Sanches Lunardon,Rocio Grande,São Francisco do Sul,SC,89331-204
+Rua João Bonifácio Corrêa - até 99998/99999,Rocio Grande,São Francisco do Sul,SC,89331-180
+Rua João Mór Vieira,Rocio Grande,São Francisco do Sul,SC,89331-219
+Rua João Pereira Liberato,Rocio Grande,São Francisco do Sul,SC,89331-225
+Rua Joinville - até 999/1000,Rocio Grande,São Francisco do Sul,SC,89331-186
+Rua Jordão Cantídio da Silva - até 256/257,Rocio Grande,São Francisco do Sul,SC,89331-287
+Rua Jordão Cantídio da Silva - de 258/259 ao fim,Rocio Grande,São Francisco do Sul,SC,89331-281
+Rua Jorge da Costa,Rocio Grande,São Francisco do Sul,SC,89331-158
+Rua José Justino da Silva,Rocio Grande,São Francisco do Sul,SC,89331-493
+Rua José Justino Rosa,Rocio Grande,São Francisco do Sul,SC,89331-222
+Rua Leônidas Branco - até 225/226,Rocio Grande,São Francisco do Sul,SC,89331-129
+Rua Levino Cabral Moreira,Rocio Grande,São Francisco do Sul,SC,89331-216
+Rua Maria Alves Mendes Cardoso,Rocio Grande,São Francisco do Sul,SC,89331-499
+Rua Maria Paun,Rocio Grande,São Francisco do Sul,SC,89331-269
+Rua Mário Roberto Robaina - até 99998 - lado par,Rocio Grande,São Francisco do Sul,SC,89331-141
+Rua Norberto Nunes da Silva,Rocio Grande,São Francisco do Sul,SC,89331-323
+Alameda Ipiranga, Água Branca, São Francisco do Sul, SC, 89330-583
+Avenida Barão do Rio Branco, Água Branca, São Francisco do Sul, SC, 89330-513
+Escadaria Laranjeira, Água Branca, São Francisco do Sul, SC, 89330-519
+Rodovia Olívio Nóbrega, Água Branca, São Francisco do Sul, SC, 89330-680
+Rua Anacleto Lauro de Borba, Água Branca, São Francisco do Sul, SC, 89330-683
+Rua Annita Helena Lehm, Água Branca, São Francisco do Sul, SC, 89330-616
+Rua Antônio Machado, Água Branca, São Francisco do Sul, SC, 89330-769
+Rua Aramis José da Rocha, Água Branca, São Francisco do Sul, SC, 89330-692
+Rua Bernardino Machado, Água Branca, São Francisco do Sul, SC, 89330-619
+Rua Célio Branco, Água Branca, São Francisco do Sul, SC, 89330-592
+Rua Gabriel Januário de Borba, Água Branca, São Francisco do Sul, SC, 89330-540
+Rua Haroldo Gonçalves Costa, Água Branca, São Francisco do Sul, SC, 89330-631
+Rua Izaías Machado, Água Branca, São Francisco do Sul, SC, 89330-625
+Rua Jehú de Sá Pereira, Água Branca, São Francisco do Sul, SC, 89330-537
+Rua João Bonifácio Corrêa, Água Branca, São Francisco do Sul, SC, 89330-640
+Rua João Gonçalves, Água Branca, São Francisco do Sul, SC, 89330-534
+Rua João Pereira de Sant-Anna, Água Branca, São Francisco do Sul, SC, 89330-598
+Rua Joinville, Água Branca, São Francisco do Sul, SC, 89330-686
+Rua Joinville, Água Branca, São Francisco do Sul, SC, 89330-689
+Rua Josino Pedro da Silva, Água Branca, São Francisco do Sul, SC, 89330-604
+Rua Leônidas Branco, Água Branca, São Francisco do Sul, SC, 89330-595
+Rua Lídio Rittes Vieira, Água Branca, São Francisco do Sul, SC, 89330-516
+Rua Manoel Gomes Rittes, Água Branca, São Francisco do Sul, SC, 89330-698
+Rua Mário Roberto Robaina, Água Branca, São Francisco do Sul, SC, 89330-601
+Rua Oliveiras, Água Branca, São Francisco do Sul, SC, 89330-763
+Rua Orlando José da Silva, Água Branca, São Francisco do Sul, SC, 89330-704
+Rua Padre Antônio Nóbrega, Água Branca, São Francisco do Sul, SC, 89330-580
+Rua Pedro Ivo Fernandes, Água Branca, São Francisco do Sul, SC, 89330-613
+Rua Presbítero João Leite, Água Branca, São Francisco do Sul, SC, 89330-760
+Rua Vanda Maria da Costa dos Passos, Água Branca, São Francisco do Sul, SC, 89330-607
+Rua Waldemar Mauro, Água Branca, São Francisco do Sul, SC, 89330-766
+Rua Willy Lehn, Água Branca, São Francisco do Sul, SC, 89330-622
+Servidão Abílio Amarante, Água Branca, São Francisco do Sul, SC, 89330-531
+Travessa Vereador Otacílio da Costa Pereira, Água Branca, São Francisco do Sul, SC, 89330-589
+Alameda Ipiranga, Centro, São Francisco do Sul, SC, 89330-025
+Alameda Ipiranga, Centro, São Francisco do Sul, SC, 89330-028
+Avenida Barão do Rio Branco, Centro, São Francisco do Sul, SC, 89330-001
+Avenida Barão do Rio Branco, Centro, São Francisco do Sul, SC, 89330-004
+Avenida Barão do Rio Branco, Centro, São Francisco do Sul, SC, 89330-181
+Avenida Barão do Rio Branco 424, Centro, São Francisco do Sul, SC, 89240-970
+Avenida Engenheiro Leite Ribeiro, Centro, São Francisco do Sul, SC, 89330-166
+Avenida Nereu Ramos, Centro, São Francisco do Sul, SC, 89330-031
+Largo Almirante Moraes Rego, Centro, São Francisco do Sul, SC, 89330-100
+Praça da Bandeira, Centro, São Francisco do Sul, SC, 89330-146
+Praça Getúlio Vargas, Centro, São Francisco do Sul, SC, 89330-124
+Rodovia Olívio Nóbrega, Centro, São Francisco do Sul, SC, 89330-172
+Rua 7 de Setembro, Centro, São Francisco do Sul, SC, 89330-079
+Rua Almirante Aristides Güilhem, Centro, São Francisco do Sul, SC, 89330-094
+Rua Anita Garibaldi, Centro, São Francisco do Sul, SC, 89330-178
+Rua Augusto Afonso dos Santos, Centro, São Francisco do Sul, SC, 89330-010
+Rua Babitonga, Centro, São Francisco do Sul, SC, 89330-145
+Rua Bela Vista, Centro, São Francisco do Sul, SC, 89330-167
+Rua Benjamin Constant, Centro, São Francisco do Sul, SC, 89330-076
+Rua Braz Sebastião Miano, Centro, São Francisco do Sul, SC, 89330-034
+Rua Comandante Cabo, Centro, São Francisco do Sul, SC, 89330-070
+Rua Coronel Camacho, Centro, São Francisco do Sul, SC, 89330-133
+Rua Don Fernando Trejo Y Sanabria, Centro, São Francisco do Sul, SC, 89330-007
+Rua Doutor Alfredo Darcy Addison, Centro, São Francisco do Sul, SC, 89330-175
+Rua Doutor Luiz Gualberto, Centro, São Francisco do Sul, SC, 89330-127
+Rua Felipe Schmidt, Centro, São Francisco do Sul, SC, 89330-082
+Rua Fernandes Dias, Centro, São Francisco do Sul, SC, 89330-142
+Rua Fernando Machado, Centro, São Francisco do Sul, SC, 89330-136
+Rua General Osório, Centro, São Francisco do Sul, SC, 89330-109
+Rua Hercílio Luz, Centro, São Francisco do Sul, SC, 89330-130
+Rua Itacolomi 1, Centro, São Francisco do Sul, SC, 89330-037
+Rua Itacolomi 2, Centro, São Francisco do Sul, SC, 89330-038
+Rua João do Amaral Filho, Centro, São Francisco do Sul, SC, 89330-049
+Rua Lauro Muller, Centro, São Francisco do Sul, SC, 89330-103
+Rua Leandro Machado de Miranda, Centro, São Francisco do Sul, SC, 89330-088
+Rua Major Lúcio Caldeira, Centro, São Francisco do Sul, SC, 89330-160
+Rua Manoel Gomes de Araújo, Centro, São Francisco do Sul, SC, 89330-043
+Rua Manuel Lourenço de Andrade, Centro, São Francisco do Sul, SC, 89330-151
+Rua Marcilio Dias, Centro, São Francisco do Sul, SC, 89330-085
+Rua Marechal Deodoro da Fonseca, Centro, São Francisco do Sul, SC, 89330-163
+Rua Marechal Floriano Peixoto, Centro, São Francisco do Sul, SC, 89330-097
+Rua Monte Castelo, Centro, São Francisco do Sul, SC, 89330-091
+Rua Padre Antônio Nóbrega, Centro, São Francisco do Sul, SC, 89330-022
+Rua Professor Joaquim S. Thiago, Centro, São Francisco do Sul, SC, 89330-121
+Rua Quintino Bocaiúva, Centro, São Francisco do Sul, SC, 89330-148
+Rua Rafael Pardinho, Centro, São Francisco do Sul, SC, 89330-154
+Rua Reinaldo Tavares, Centro, São Francisco do Sul, SC, 89330-118
+Rua Vereador Valdici do Amaral, Centro, São Francisco do Sul, SC, 89330-046
+Rua Vigário Benjamin Carvalho, Centro, São Francisco do Sul, SC, 89330-115
+Servidão Georges Demetre Adamis, Centro, São Francisco do Sul, SC, 89330-071
+Servidão Santina Maria de Matos Nascimento, Centro, São Francisco do Sul, SC, 89330-040
+Travessa Doutor Amilton Oliveira, Centro, São Francisco do Sul, SC, 89330-013
+Travessa Izaque Pacifico, Centro, São Francisco do Sul, SC, 89330-016
+Travessa Jorge Baggenstoss, Centro, São Francisco do Sul, SC, 89330-139
+Rua das Palmeiras, Laranjeiras, São Francisco do Sul, SC, 89331-602
+Rua Izabel Rosa Correa, Laranjeiras, São Francisco do Sul, SC, 89331-599
+Rua Portinho da Caeira, Laranjeiras, São Francisco do Sul, SC, 89331-596
+Rua Walter Rhinow, Laranjeiras, São Francisco do Sul, SC, 89331-590
+Avenida das Dunas, Praia Grande, São Francisco do Sul, SC, 89337-138
+Avenida Inácio Espíndola, Praia Grande, São Francisco do Sul, SC, 89337-202
+Avenida São Francisco do Sul, Praia Grande, São Francisco do Sul, SC, 89337-160
+Avenida Sérgio Onesti, Praia Grande, São Francisco do Sul, SC, 89337-134
+Rua Canela, Praia Grande, São Francisco do Sul, SC, 89337-204
+Rua Caxias do Sul, Praia Grande, São Francisco do Sul, SC, 89337-228
+Rua Garibaldi, Praia Grande, São Francisco do Sul, SC, 89337-234
+Rua Giovana de Andrade Urtado, Praia Grande, São Francisco do Sul, SC, 89337-232
+Rua Irati, Praia Grande, São Francisco do Sul, SC, 89337-162
+Rua Itapoá, Praia Grande, São Francisco do Sul, SC, 89337-154
+Rua Lagoa Vermelha, Praia Grande, São Francisco do Sul, SC, 89337-214
+Rua Lebon Regis, Praia Grande, São Francisco do Sul, SC, 89337-166
+Rua Massaranduba, Praia Grande, São Francisco do Sul, SC, 89337-140
+Rua Monte Carlo, Praia Grande, São Francisco do Sul, SC, 89337-158
+Rua Novo Hamburgo, Praia Grande, São Francisco do Sul, SC, 89337-242
+Rua Orleans, Praia Grande, São Francisco do Sul, SC, 89337-152
+Rua Osório, Praia Grande, São Francisco do Sul, SC, 89337-238
+Rua Otacílio Costa, Praia Grande, São Francisco do Sul, SC, 89337-170
+Rua Palmeira, Praia Grande, São Francisco do Sul, SC, 89337-174
+Rua Papanduva, Praia Grande, São Francisco do Sul, SC, 89337-150
+Rua Paraíso, Praia Grande, São Francisco do Sul, SC, 89337-164
+Rua Passo Fundo, Praia Grande, São Francisco do Sul, SC, 89337-240
+Rua Pelotas, Praia Grande, São Francisco do Sul, SC, 89337-218
+Rua Piratuba, Praia Grande, São Francisco do Sul, SC, 89337-132
+Rua Progresso, Praia Grande, São Francisco do Sul, SC, 89337-200
+Rua Santa Helena, Praia Grande, São Francisco do Sul, SC, 89337-136
+Rua São Marcos, Praia Grande, São Francisco do Sul, SC, 89337-230
+Rua Tangará, Praia Grande, São Francisco do Sul, SC, 89337-168
+Rua Teresina, Praia Grande, São Francisco do Sul, SC, 89337-130
+Rua Torres, Praia Grande, São Francisco do Sul, SC, 89337-206
+Rua Três Barras, Praia Grande, São Francisco do Sul, SC, 89337-148
+Rua Urubici, Praia Grande, São Francisco do Sul, SC, 89337-156
+Rua Urussanga, Praia Grande, São Francisco do Sul, SC, 89337-144
+Rua Vacaria, Praia Grande, São Francisco do Sul, SC, 89337-222
+Rua Videira, Praia Grande, São Francisco do Sul, SC, 89337-146
+Travessa Bagé, Praia Grande, São Francisco do Sul, SC, 89337-208
+Travessa Bento Gonçalves, Praia Grande, São Francisco do Sul, SC, 89337-224
+Travessa Bombinhas, Praia Grande, São Francisco do Sul, SC, 89337-142
+Travessa Canoas, Praia Grande, São Francisco do Sul, SC, 89337-236
+Travessa Esteio, Praia Grande, São Francisco do Sul, SC, 89337-210
+Travessa Farroupilha, Praia Grande, São Francisco do Sul, SC, 89337-212
+Travessa Flores da Cunha, Praia Grande, São Francisco do Sul, SC, 89337-220
+Travessa Gramado, Praia Grande, São Francisco do Sul, SC, 89337-216
+Travessa Gravataí, Praia Grande, São Francisco do Sul, SC, 89337-226
+Avenida Barão do Rio Branco, Rocio Pequeno, São Francisco do Sul, SC, 89333-003
+Rodovia Olívio Nóbrega, Rocio Pequeno, São Francisco do Sul, SC, 89333-179
+Rua Almirante Barroso, Rocio Pequeno, São Francisco do Sul, SC, 89333-006
+Rua Antônio Zattar, Rocio Pequeno, São Francisco do Sul, SC, 89333-134
+Rua Arnoldo Pereira, Rocio Pequeno, São Francisco do Sul, SC, 89333-066
+Rua Arthur Bertholdo Breis Filho, Rocio Pequeno, São Francisco do Sul, SC, 89333-039
+Rua Captulino Júlio Vieira, Rocio Pequeno, São Francisco do Sul, SC, 89333-036
+Rua Carijós, Rocio Pequeno, São Francisco do Sul, SC, 89333-149
+Rua Carlos de Carvalho Rocha, Rocio Pequeno, São Francisco do Sul, SC, 89333-057
+Rua dos Sabiás, Rocio Pequeno, São Francisco do Sul, SC, 89333-116
+Rua Doutor Rogério Zattar, Rocio Pequeno, São Francisco do Sul, SC, 89333-075
+Rua Doutor Ubirajara Alves de Carvalho, Rocio Pequeno, São Francisco do Sul, SC, 89333-072
+Rua Estêvão Emiliano Couto, Rocio Pequeno, São Francisco do Sul, SC, 89333-069
+Rua Estudante Célio Nascimento, Rocio Pequeno, São Francisco do Sul, SC, 89333-030
+Rua Hugo Lima da Cunha, Rocio Pequeno, São Francisco do Sul, SC, 89333-128
+Rua Ivo Cidral Machado, Rocio Pequeno, São Francisco do Sul, SC, 89333-051
+Rua Jasmim, Rocio Pequeno, São Francisco do Sul, SC, 89333-078
+Rua João Antônio da Silva, Rocio Pequeno, São Francisco do Sul, SC, 89333-122
+Rua João Antônio Duarte, Rocio Pequeno, São Francisco do Sul, SC, 89333-012
+Rua João Machado Pereira, Rocio Pequeno, São Francisco do Sul, SC, 89333-110
+Rua João Máximo Cidral, Rocio Pequeno, São Francisco do Sul, SC, 89333-113
+Rua Joaquim Norberto de Oliveira, Rocio Pequeno, São Francisco do Sul, SC, 89333-176
+Rua José Koeller, Rocio Pequeno, São Francisco do Sul, SC, 89333-015
+Rua José Laércio Thomazelli, Rocio Pequeno, São Francisco do Sul, SC, 89333-140
+Rua Leôncio Pereira, Rocio Pequeno, São Francisco do Sul, SC, 89333-045
+Rua Lourisval Francelino de Carvalho, Rocio Pequeno, São Francisco do Sul, SC, 89333-125
+Rua Octávio Miguel da Costa, Rocio Pequeno, São Francisco do Sul, SC, 89333-143
+Rua Passo Largo, Rocio Pequeno, São Francisco do Sul, SC, 89333-063
+Rua Primavera, Rocio Pequeno, São Francisco do Sul, SC, 89333-119
+Rua Professora Rosa Machado Tavares, Rocio Pequeno, São Francisco do Sul, SC, 89333-173
+Rua Verdes Mares, Rocio Pequeno, São Francisco do Sul, SC, 89333-042
+Rua Vereador Sálvio Amado de Oliveira, Rocio Pequeno, São Francisco do Sul, SC, 89333-170
+Servidão Antenor Valentin do Rosário, Rocio Pequeno, São Francisco do Sul, SC, 89333-131
+Servidão Geni Carlins, Rocio Pequeno, São Francisco do Sul, SC, 89333-060
+Servidão Juvenal Eleutério Maurer, Rocio Pequeno, São Francisco do Sul, SC, 89333-009
+Travessa Alcides Teixeira, Rocio Pequeno, São Francisco do Sul, SC, 89333-021
+Travessa Moacyr Rocha, Rocio Pequeno, São Francisco do Sul, SC, 89333-027
+Travessa Simão Thomazelli, Rocio Pequeno, São Francisco do Sul, SC, 89333-137
+Avenida Brasil, Ubatuba, São Francisco do Sul, SC, 89336-637
+Avenida Jaime Ernesto de Oliveira, Ubatuba, São Francisco do Sul, SC, 89335-514
+Avenida Jaime Ernesto de Oliveira, Ubatuba, São Francisco do Sul, SC, 89335-800
+Avenida Joinville, Ubatuba, São Francisco do Sul, SC, 89336-161
+Avenida Oscar Bernardo Beckhauser, Ubatuba, São Francisco do Sul, SC, 89336-570
+Avenida Santa Catarina 2025, Ubatuba, São Francisco do Sul, SC, 89240-971
+Avenida Tripoli, Ubatuba, São Francisco do Sul, SC, 89336-190
+Avenida Willy Wiest, Ubatuba, São Francisco do Sul, SC, 89335-803
+Estrada do Forte, Ubatuba, São Francisco do Sul, SC, 89336-030
+Rodovia Duque de Caxias, Ubatuba, São Francisco do Sul, SC, 89335-000
+Rua Aci Cabral, Ubatuba, São Francisco do Sul, SC, 89336-048
+Rua Agronômica, Ubatuba, São Francisco do Sul, SC, 89335-297
+Rua Água Doce, Ubatuba, São Francisco do Sul, SC, 89335-306
+Rua Águas de Chapecó, Ubatuba, São Francisco do Sul, SC, 89335-237
+Rua Airton Felácio, Ubatuba, São Francisco do Sul, SC, 89335-430
+Rua Allan Kardec, Ubatuba, São Francisco do Sul, SC, 89335-270
+Rua Álvares Azevedo, Ubatuba, São Francisco do Sul, SC, 89335-273
+Rua Alvorada, Ubatuba, São Francisco do Sul, SC, 89335-285
+Rua Anália Celestino de Carvalho, Ubatuba, São Francisco do Sul, SC, 89336-515
+Rua Ancara, Ubatuba, São Francisco do Sul, SC, 89335-350
+Rua Anchieta, Ubatuba, São Francisco do Sul, SC, 89335-234
+Rua André Luiz, Ubatuba, São Francisco do Sul, SC, 89335-267
+Rua Angelina, Ubatuba, São Francisco do Sul, SC, 89335-231
+Rua Anitápolis, Ubatuba, São Francisco do Sul, SC, 89335-300
+Rua Antônia Evanilde de Oliveira Miranda, Ubatuba, São Francisco do Sul, SC, 89336-425
+Rua Antônia Rodrigues Alexandre, Ubatuba, São Francisco do Sul, SC, 89336-392
+Rua Antônio Carlos, Ubatuba, São Francisco do Sul, SC, 89335-252
+Rua Antônio Luiz Pereira, Ubatuba, São Francisco do Sul, SC, 89335-442
+Rua Antônio Nicácio de Oliveira, Ubatuba, São Francisco do Sul, SC, 89335-065
+Rua Antônio Urbano da Fonseca, Ubatuba, São Francisco do Sul, SC, 89336-398
+Rua Arapongas, Ubatuba, São Francisco do Sul, SC, 89335-282
+Rua Araquari, Ubatuba, São Francisco do Sul, SC, 89335-288
+Rua Araranguá, Ubatuba, São Francisco do Sul, SC, 89335-243
+Rua Argel, Ubatuba, São Francisco do Sul, SC, 89335-359
+Rua Argentina, Ubatuba, São Francisco do Sul, SC, 89336-643
+Rua Armazém, Ubatuba, São Francisco do Sul, SC, 89335-240
+Rua Assis Chateaubriand, Ubatuba, São Francisco do Sul, SC, 89335-362
+Rua Assunção, Ubatuba, São Francisco do Sul, SC, 89335-815
+Rua Atenas, Ubatuba, São Francisco do Sul, SC, 89335-812
+Rua Atlanta, Ubatuba, São Francisco do Sul, SC, 89335-279
+Rua Aurora, Ubatuba, São Francisco do Sul, SC, 89335-318
+Rua Azulão, Ubatuba, São Francisco do Sul, SC, 89336-349
+Rua Bagdá, Ubatuba, São Francisco do Sul, SC, 89335-818
+Rua Barra Velha, Ubatuba, São Francisco do Sul, SC, 89335-303
+Rua Bartolomeu Onofre Krauss, Ubatuba, São Francisco do Sul, SC, 89335-436
+Rua Beija-Flor, Ubatuba, São Francisco do Sul, SC, 89336-343
+Rua Beirute, Ubatuba, São Francisco do Sul, SC, 89335-821
+Rua Belfaste, Ubatuba, São Francisco do Sul, SC, 89335-839
+Rua Benedito Novo, Ubatuba, São Francisco do Sul, SC, 89335-469
+Rua Berlim, Ubatuba, São Francisco do Sul, SC, 89335-824
+Rua Berna, Ubatuba, São Francisco do Sul, SC, 89335-827
+Rua Blandina Steiner Beckhauser, Ubatuba, São Francisco do Sul, SC, 89336-640
+Rua Blumenau, Ubatuba, São Francisco do Sul, SC, 89335-321
+Rua Bolivia, Ubatuba, São Francisco do Sul, SC, 89336-652
+Rua Bom Retiro, Ubatuba, São Francisco do Sul, SC, 89335-463
+Rua Bonn, Ubatuba, São Francisco do Sul, SC, 89335-830
+Rua Braço do Norte, Ubatuba, São Francisco do Sul, SC, 89335-466
+Rua Bruxelas, Ubatuba, São Francisco do Sul, SC, 89335-836
+Rua Bucareste, Ubatuba, São Francisco do Sul, SC, 89335-833
+Rua Budapeste, Ubatuba, São Francisco do Sul, SC, 89335-842
+Rua Cabul, Ubatuba, São Francisco do Sul, SC, 89335-854
+Rua Caçador, Ubatuba, São Francisco do Sul, SC, 89335-403
+Rua Caibi, Ubatuba, São Francisco do Sul, SC, 89335-406
+Rua Cairo, Ubatuba, São Francisco do Sul, SC, 89335-851
+Rua Cambé, Ubatuba, São Francisco do Sul, SC, 89335-353
+Rua Camboriú, Ubatuba, São Francisco do Sul, SC, 89335-418
+Rua Campo Alegre, Ubatuba, São Francisco do Sul, SC, 89335-475
+Rua Campo Erê, Ubatuba, São Francisco do Sul, SC, 89335-493
+Rua Campos Novos, Ubatuba, São Francisco do Sul, SC, 89335-409
+Rua Canadá, Ubatuba, São Francisco do Sul, SC, 89336-613
+Rua Canelinha, Ubatuba, São Francisco do Sul, SC, 89335-478
+Rua Canoinhas, Ubatuba, São Francisco do Sul, SC, 89335-415
+Rua Capinzal, Ubatuba, São Francisco do Sul, SC, 89335-421
+Rua Caracas, Ubatuba, São Francisco do Sul, SC, 89335-845
+Rua Cartum, Ubatuba, São Francisco do Sul, SC, 89335-863
+Rua Catanduvas, Ubatuba, São Francisco do Sul, SC, 89335-481
+Rua Caxambu do Sul, Ubatuba, São Francisco do Sul, SC, 89335-460
+Rua Cerejeiras, Ubatuba, São Francisco do Sul, SC, 89336-512
+Rua Ceuta, Ubatuba, São Francisco do Sul, SC, 89335-872
+Rua Chapecó, Ubatuba, São Francisco do Sul, SC, 89335-427
+Rua Cidade do Cabo, Ubatuba, São Francisco do Sul, SC, 89335-860
+Rua Clair Lídia dos Santos de Souza, Ubatuba, São Francisco do Sul, SC, 89335-003
+Rua Conacri, Ubatuba, São Francisco do Sul, SC, 89335-869
+Rua Concórdia, Ubatuba, São Francisco do Sul, SC, 89335-433
+Rua Copenhague, Ubatuba, São Francisco do Sul, SC, 89335-806
+Rua Coronel Freitas, Ubatuba, São Francisco do Sul, SC, 89335-448
+Rua Corupá, Ubatuba, São Francisco do Sul, SC, 89335-484
+Rua Criciúma, Ubatuba, São Francisco do Sul, SC, 89335-472
+Rua Cunha Porá, Ubatuba, São Francisco do Sul, SC, 89335-457
+Rua Curitibanos, Ubatuba, São Francisco do Sul, SC, 89335-439
+Rua Cusco, Ubatuba, São Francisco do Sul, SC, 89335-857
+Rua da Corda, Ubatuba, São Francisco do Sul, SC, 89336-380
+Rua Dacar, Ubatuba, São Francisco do Sul, SC, 89335-887
+Rua Damasco, Ubatuba, São Francisco do Sul, SC, 89335-884
+Rua Daniel Henrique Ferreira, Ubatuba, São Francisco do Sul, SC, 89336-396
+Rua das Flores do Campo, Ubatuba, São Francisco do Sul, SC, 89336-473
+Rua das Gardênias, Ubatuba, São Francisco do Sul, SC, 89336-518
+Rua das Orquídeas, Ubatuba, São Francisco do Sul, SC, 89336-530
+Rua das Suculentas, Ubatuba, São Francisco do Sul, SC, 89336-503
+Rua Delhí, Ubatuba, São Francisco do Sul, SC, 89336-140
+Rua Descanso, Ubatuba, São Francisco do Sul, SC, 89335-499
+Rua Dionísio Cerqueira, Ubatuba, São Francisco do Sul, SC, 89335-508
+Rua do Farol, Ubatuba, São Francisco do Sul, SC, 89336-238
+Rua Dona Emma, Ubatuba, São Francisco do Sul, SC, 89335-511
+Rua dos Aposentados, Ubatuba, São Francisco do Sul, SC, 89336-479
+Rua dos Hibiscos, Ubatuba, São Francisco do Sul, SC, 89336-527
+Rua Dublim, Ubatuba, São Francisco do Sul, SC, 89335-866
+Rua Edimburgo, Ubatuba, São Francisco do Sul, SC, 89335-893
+Rua Equador, Ubatuba, São Francisco do Sul, SC, 89336-655
+Rua Erich Bosse, Ubatuba, São Francisco do Sul, SC, 89336-173
+Rua Espanha, Ubatuba, São Francisco do Sul, SC, 89336-631
+Rua Estocolmo, Ubatuba, São Francisco do Sul, SC, 89335-890
+Rua Faxinal dos Guedes, Ubatuba, São Francisco do Sul, SC, 89335-523
+Rua Felipe Musse, Ubatuba, São Francisco do Sul, SC, 89335-526
+Rua Felipe Musse, Ubatuba, São Francisco do Sul, SC, 89335-532
+Rua Figueira, Ubatuba, São Francisco do Sul, SC, 89336-440
+Rua Filipinas, Ubatuba, São Francisco do Sul, SC, 89335-130
+Rua Flor de Lis, Ubatuba, São Francisco do Sul, SC, 89336-509
+Rua Flor de Lótus, Ubatuba, São Francisco do Sul, SC, 89336-500
+Rua Flor de Maio, Ubatuba, São Francisco do Sul, SC, 89336-524
+Rua Fraiburgo, Ubatuba, São Francisco do Sul, SC, 89335-520
+Rua França, Ubatuba, São Francisco do Sul, SC, 89336-628
+Rua Francisco Carvalho, Ubatuba, São Francisco do Sul, SC, 89335-848
+Rua Francisco Donato de Oliveira, Ubatuba, São Francisco do Sul, SC, 89336-404
+Rua Geraldo Nunes da Silva, Ubatuba, São Francisco do Sul, SC, 89336-437
+Rua Gibraltar, Ubatuba, São Francisco do Sul, SC, 89336-002
+Rua Gralha Azul, Ubatuba, São Francisco do Sul, SC, 89336-434
+Rua Grécia, Ubatuba, São Francisco do Sul, SC, 89335-050
+Rua Guaíra, Ubatuba, São Francisco do Sul, SC, 89336-045
+Rua Guatemala, Ubatuba, São Francisco do Sul, SC, 89336-616
+Rua Gustavo Vogelsanger, Ubatuba, São Francisco do Sul, SC, 89336-005
+Rua Haiti, Ubatuba, São Francisco do Sul, SC, 89335-136
+Rua Havana, Ubatuba, São Francisco do Sul, SC, 89335-809
+Rua Helsique, Ubatuba, São Francisco do Sul, SC, 89335-899
+Rua Holanda, Ubatuba, São Francisco do Sul, SC, 89336-634
+Rua Honduras, Ubatuba, São Francisco do Sul, SC, 89336-610
+Rua Içara, Ubatuba, São Francisco do Sul, SC, 89335-626
+Rua Içara Cabral, Ubatuba, São Francisco do Sul, SC, 89336-253
+Rua Ilhéus, Ubatuba, São Francisco do Sul, SC, 89336-352
+Rua Ilhota, Ubatuba, São Francisco do Sul, SC, 89335-614
+Rua Imbituba, Ubatuba, São Francisco do Sul, SC, 89335-635
+Rua Imigrantes, Ubatuba, São Francisco do Sul, SC, 89336-036
+Rua Indaial, Ubatuba, São Francisco do Sul, SC, 89335-644
+Rua Inglaterra, Ubatuba, São Francisco do Sul, SC, 89336-622
+Rua Inirama, Ubatuba, São Francisco do Sul, SC, 89335-653
+Rua Irineu Heitor Serafini, Ubatuba, São Francisco do Sul, SC, 89335-371
+Rua Irlanda, Ubatuba, São Francisco do Sul, SC, 89335-139
+Rua Israel, Ubatuba, São Francisco do Sul, SC, 89335-148
+Rua Itabuna, Ubatuba, São Francisco do Sul, SC, 89336-346
+Rua Itaguassu, Ubatuba, São Francisco do Sul, SC, 89336-116
+Rua Itaipu, Ubatuba, São Francisco do Sul, SC, 89336-331
+Rua Itajaí, Ubatuba, São Francisco do Sul, SC, 89335-560
+Rua Itália, Ubatuba, São Francisco do Sul, SC, 89336-619
+Rua Itamundi, Ubatuba, São Francisco do Sul, SC, 89336-310
+Rua Itapema, Ubatuba, São Francisco do Sul, SC, 89335-662
+Rua Itapiranga, Ubatuba, São Francisco do Sul, SC, 89335-563
+Rua Itaquatiara, Ubatuba, São Francisco do Sul, SC, 89336-340
+Rua Ituporanga, Ubatuba, São Francisco do Sul, SC, 89335-365
+Rua Jacarta, Ubatuba, São Francisco do Sul, SC, 89336-083
+Rua Jaguaruna, Ubatuba, São Francisco do Sul, SC, 89335-566
+Rua Jamaica, Ubatuba, São Francisco do Sul, SC, 89335-154
+Rua Japão, Ubatuba, São Francisco do Sul, SC, 89335-151
+Rua Jaraguá do Sul, Ubatuba, São Francisco do Sul, SC, 89335-617
+Rua Jerusalém, Ubatuba, São Francisco do Sul, SC, 89335-896
+Rua Joaçaba, Ubatuba, São Francisco do Sul, SC, 89335-605
+Rua João Dias, Ubatuba, São Francisco do Sul, SC, 89336-470
+Rua João Leocádio de Miranda, Ubatuba, São Francisco do Sul, SC, 89336-419
+Rua João Pedro Batista, Ubatuba, São Francisco do Sul, SC, 89335-249
+Rua Kampala, Ubatuba, São Francisco do Sul, SC, 89336-086
+Rua Kiev, Ubatuba, São Francisco do Sul, SC, 89336-080
+Rua Kingston, Ubatuba, São Francisco do Sul, SC, 89336-220
+Rua La-Paz, Ubatuba, São Francisco do Sul, SC, 89336-089
+Rua Lages, Ubatuba, São Francisco do Sul, SC, 89335-569
+Rua Laguna, Ubatuba, São Francisco do Sul, SC, 89335-623
+Rua Lima, Ubatuba, São Francisco do Sul, SC, 89336-092
+Rua Lírio do Vale, Ubatuba, São Francisco do Sul, SC, 89336-521
+Rua Lírio do Campo, Ubatuba, São Francisco do Sul, SC, 89336-506
+Rua Lisboa, Ubatuba, São Francisco do Sul, SC, 89336-095
+Rua Londres, Ubatuba, São Francisco do Sul, SC, 89336-101
+Rua Lontras, Ubatuba, São Francisco do Sul, SC, 89335-599
+Rua Luanda, Ubatuba, São Francisco do Sul, SC, 89336-098
+Rua Luiz Alves, Ubatuba, São Francisco do Sul, SC, 89335-602
+Rua Lusaka, Ubatuba, São Francisco do Sul, SC, 89336-104
+Rua Madagascar, Ubatuba, São Francisco do Sul, SC, 89336-241
+Rua Madrid, Ubatuba, São Francisco do Sul, SC, 89336-107
+Rua Mafra, Ubatuba, São Francisco do Sul, SC, 89335-575
+Rua Maldonado, Ubatuba, São Francisco do Sul, SC, 89335-875
+Rua Manágua, Ubatuba, São Francisco do Sul, SC, 89336-164
+Rua Manila, Ubatuba, São Francisco do Sul, SC, 89336-167
+Rua Maracajá, Ubatuba, São Francisco do Sul, SC, 89335-629
+Rua Marambaia, Ubatuba, São Francisco do Sul, SC, 89336-325
+Rua Maravilha, Ubatuba, São Francisco do Sul, SC, 89335-638
+Rua Marechal Cândido Rondon, Ubatuba, São Francisco do Sul, SC, 89335-356
+Rua Marrocos, Ubatuba, São Francisco do Sul, SC, 89335-160
+Rua Matos Costa, Ubatuba, São Francisco do Sul, SC, 89335-656
+Rua Medellin, Ubatuba, São Francisco do Sul, SC, 89335-878
+Rua Melbourne, Ubatuba, São Francisco do Sul, SC, 89336-119
+Rua Mercedes, Ubatuba, São Francisco do Sul, SC, 89335-368
+Rua México, Ubatuba, São Francisco do Sul, SC, 89336-664
+Rua Miraí, Ubatuba, São Francisco do Sul, SC, 89336-158
+Rua Modelo, Ubatuba, São Francisco do Sul, SC, 89335-647
+Rua Mônaco, Ubatuba, São Francisco do Sul, SC, 89335-157
+Rua Monte Castelo, Ubatuba, São Francisco do Sul, SC, 89335-665
+Rua Montevidéo, Ubatuba, São Francisco do Sul, SC, 89336-113
+Rua Montreal, Ubatuba, São Francisco do Sul, SC, 89336-110
+Rua Moscou, Ubatuba, São Francisco do Sul, SC, 89336-170
+Rua Navegantes, Ubatuba, São Francisco do Sul, SC, 89335-578
+Rua Nepal, Ubatuba, São Francisco do Sul, SC, 89335-163
+Rua Noruega, Ubatuba, São Francisco do Sul, SC, 89335-169
+Rua Nova Trento, Ubatuba, São Francisco do Sul, SC, 89335-581
+Rua Nova Veneza, Ubatuba, São Francisco do Sul, SC, 89335-584
+Rua Olímpia Dozol Florenço, Ubatuba, São Francisco do Sul, SC, 89335-881
+Rua Oscar Bernardo Beckhauser, Ubatuba, São Francisco do Sul, SC, 89335-053
+Rua Oslo, Ubatuba, São Francisco do Sul, SC, 89336-143
+Rua Padre Fidélis, Ubatuba, São Francisco do Sul, SC, 89335-193
+Rua Padre Léo, Ubatuba, São Francisco do Sul, SC, 89335-294
+Rua Palhoça, Ubatuba, São Francisco do Sul, SC, 89335-608
+Rua Palma Sola, Ubatuba, São Francisco do Sul, SC, 89335-587
+Rua Palmitos, Ubatuba, São Francisco do Sul, SC, 89335-590
+Rua Papa João Paulo, Ubatuba, São Francisco do Sul, SC, 89335-228
+Rua Paraguai, Ubatuba, São Francisco do Sul, SC, 89336-646
+Rua Paris, Ubatuba, São Francisco do Sul, SC, 89336-146
+Rua Paulo Lopes, Ubatuba, São Francisco do Sul, SC, 89335-593
+Rua Pedras Grandes, Ubatuba, São Francisco do Sul, SC, 89335-668
+Rua Penha, Ubatuba, São Francisco do Sul, SC, 89335-671
+Rua Pequim, Ubatuba, São Francisco do Sul, SC, 89336-152
+Rua Peru, Ubatuba, São Francisco do Sul, SC, 89336-661
+Rua Piçarras, Ubatuba, São Francisco do Sul, SC, 89335-611
+Rua Piratininga, Ubatuba, São Francisco do Sul, SC, 89336-334
+Rua Pomerode, Ubatuba, São Francisco do Sul, SC, 89335-620
+Rua Ponte Alta, Ubatuba, São Francisco do Sul, SC, 89335-722
+Rua Ponte Serrada, Ubatuba, São Francisco do Sul, SC, 89335-632
+Rua Porto Belo, Ubatuba, São Francisco do Sul, SC, 89335-641
+Rua Porto União, Ubatuba, São Francisco do Sul, SC, 89335-659
+Rua Portugal, Ubatuba, São Francisco do Sul, SC, 89336-625
+Rua Praga, Ubatuba, São Francisco do Sul, SC, 89336-149
+Rua Praia Grande, Ubatuba, São Francisco do Sul, SC, 89335-650
+Rua Quito, Ubatuba, São Francisco do Sul, SC, 89336-155
+Rua Rancho Queimado, Ubatuba, São Francisco do Sul, SC, 89335-710
+Rua Rio das Antas, Ubatuba, São Francisco do Sul, SC, 89335-713
+Rua Rio do Campo, Ubatuba, São Francisco do Sul, SC, 89335-719
+Rua Rio do Oeste, Ubatuba, São Francisco do Sul, SC, 89335-728
+Rua Rio do Sul, Ubatuba, São Francisco do Sul, SC, 89335-674
+Rua Rio dos Cedros, Ubatuba, São Francisco do Sul, SC, 89335-731
+Rua Rio Fortuna, Ubatuba, São Francisco do Sul, SC, 89335-725
+Rua Rio Negrinho, Ubatuba, São Francisco do Sul, SC, 89335-677
+Rua Rodeio, Ubatuba, São Francisco do Sul, SC, 89335-734
+Rua Roma, Ubatuba, São Francisco do Sul, SC, 89336-223
+Rua Rosas do Mar, Ubatuba, São Francisco do Sul, SC, 89336-383
+Rua Rua Teerã, Ubatuba, São Francisco do Sul, SC, 89336-199
+Rua Salete, Ubatuba, São Francisco do Sul, SC, 89335-680
+Rua Salto Veloso, Ubatuba, São Francisco do Sul, SC, 89335-683
+Rua San Diego, Ubatuba, São Francisco do Sul, SC, 89336-319
+Rua Sandro Buerger, Ubatuba, São Francisco do Sul, SC, 89336-247
+Rua Santa Cecília, Ubatuba, São Francisco do Sul, SC, 89335-686
+Rua Santa Paulina, Ubatuba, São Francisco do Sul, SC, 89335-056
+Rua Santiago, Ubatuba, São Francisco do Sul, SC, 89336-232
+Rua São Bento do Sul, Ubatuba, São Francisco do Sul, SC, 89335-689
+Rua São Bonifácio, Ubatuba, São Francisco do Sul, SC, 89335-692
+Rua São Carlos, Ubatuba, São Francisco do Sul, SC, 89335-737
+Rua São Domingos, Ubatuba, São Francisco do Sul, SC, 89336-235
+Rua São Joaquim, Ubatuba, São Francisco do Sul, SC, 89335-695
+Rua São José, Ubatuba, São Francisco do Sul, SC, 89335-740
+Rua Saudade, Ubatuba, São Francisco do Sul, SC, 89335-716
+Rua Segundo-Tenente Marcelo Braga, Ubatuba, São Francisco do Sul, SC, 89335-059
+Rua Siderópolis, Ubatuba, São Francisco do Sul, SC, 89335-701
+Rua Sidney, Ubatuba, São Francisco do Sul, SC, 89336-226
+Rua Sofia, Ubatuba, São Francisco do Sul, SC, 89336-229
+Rua Sombrio, Ubatuba, São Francisco do Sul, SC, 89335-704
+Rua Sossego, Ubatuba, São Francisco do Sul, SC, 89336-395
+Rua Suécia, Ubatuba, São Francisco do Sul, SC, 89335-172
+Rua Suriname, Ubatuba, São Francisco do Sul, SC, 89335-178
+Rua Taió, Ubatuba, São Francisco do Sul, SC, 89335-746
+Rua Tegucigalpa, Ubatuba, São Francisco do Sul, SC, 89336-193
+Rua Tiago Mafra, Ubatuba, São Francisco do Sul, SC, 89335-181
+Rua Tico-Tico, Ubatuba, São Francisco do Sul, SC, 89336-355
+Rua Tijucas, Ubatuba, São Francisco do Sul, SC, 89335-749
+Rua Timbó, Ubatuba, São Francisco do Sul, SC, 89335-752
+Rua Tirana, Ubatuba, São Francisco do Sul, SC, 89336-205
+Rua Tóquio, Ubatuba, São Francisco do Sul, SC, 89336-196
+Rua Tubarão, Ubatuba, São Francisco do Sul, SC, 89335-758
+Rua Tunis, Ubatuba, São Francisco do Sul, SC, 89336-202
+Rua Turvo, Ubatuba, São Francisco do Sul, SC, 89335-755
+Rua Uirapuru, Ubatuba, São Francisco do Sul, SC, 89336-337
+Rua Varsóvia, Ubatuba, São Francisco do Sul, SC, 89336-208
+Rua Viena, Ubatuba, São Francisco do Sul, SC, 89336-211
+Rua Washington, Ubatuba, São Francisco do Sul, SC, 89336-214
+Rua Washington, Ubatuba, São Francisco do Sul, SC, 89336-217
+Servidão dos Canários, Ubatuba, São Francisco do Sul, SC, 89336-446
+Servidão dos Herdeiros, Ubatuba, São Francisco do Sul, SC, 89335-166
+Servidão Doze de Outubro, Ubatuba, São Francisco do Sul, SC, 89336-389
+Sítio São Martinho, Ubatuba, São Francisco do Sul, SC, 89335-698
+Travessa Garopaba, Ubatuba, São Francisco do Sul, SC, 89335-487
+Travessa Garuva, Ubatuba, São Francisco do Sul, SC, 89335-502
+Travessa Gaspar, Ubatuba, São Francisco do Sul, SC, 89335-505
+Travessa Gravatal, Ubatuba, São Francisco do Sul, SC, 89335-490
+Travessa Lacerdópolis, Ubatuba, São Francisco do Sul, SC, 89335-572
+Travessa Madre Tereza de Calcutá, Ubatuba, São Francisco do Sul, SC, 89335-276
+Avenida Atlântica, Enseada, São Francisco do Sul, SC, 89337-000
+Avenida Brasília, Enseada, São Francisco do Sul, SC, 89337-110
+Avenida Santa Catarina, Enseada, São Francisco do Sul, SC, 89337-002
+Avenida Santa Catarina 70 Clique e Retire Correios, Enseada, São Francisco do Sul, SC, 89337-959
+Avenida Santa Catarina 70, Enseada, São Francisco do Sul, SC, 89337-972
+Caminho da Paz, Enseada, São Francisco do Sul, SC, 89337-108
+Rua Acre, Enseada, São Francisco do Sul, SC, 89337-004
+Rua Alcione Maria Paul Probst, Enseada, São Francisco do Sul, SC, 89337-018
+Rua Amapá, Enseada, São Francisco do Sul, SC, 89337-096
+Rua Aracajú, Enseada, São Francisco do Sul, SC, 89337-054
+Rua Bahia, Enseada, São Francisco do Sul, SC, 89337-098
+Rua Belém, Enseada, São Francisco do Sul, SC, 89337-056
+Rua Belo Horizonte, Enseada, São Francisco do Sul, SC, 89337-064
+Rua Boa Vista, Enseada, São Francisco do Sul, SC, 89337-062
+Rua Campo Grande, Enseada, São Francisco do Sul, SC, 89337-070
+Rua Ceará, Enseada, São Francisco do Sul, SC, 89337-100
+Rua Cuiabá, Enseada, São Francisco do Sul, SC, 89337-066
+Rua Curitiba, Enseada, São Francisco do Sul, SC, 89337-068
+Rua Fortaleza, Enseada, São Francisco do Sul, SC, 89337-072
+Rua Goiânia, Enseada, São Francisco do Sul, SC, 89337-060
+Rua Goiás, Enseada, São Francisco do Sul, SC, 89337-102
+Rua João Pessoa, Enseada, São Francisco do Sul, SC, 89337-076
+Rua Macapá, Enseada, São Francisco do Sul, SC, 89337-082
+Rua Maceió, Enseada, São Francisco do Sul, SC, 89337-078
+Rua Manaus, Enseada, São Francisco do Sul, SC, 89337-080
+Rua Maranhão, Enseada, São Francisco do Sul, SC, 89337-042
+Rua Mato Grosso, Enseada, São Francisco do Sul, SC, 89337-104
+Rua Mato Grosso do Sul, Enseada, São Francisco do Sul, SC, 89337-106
+Rua Minas Gerais, Enseada, São Francisco do Sul, SC, 89337-044
+Rua Pará, Enseada, São Francisco do Sul, SC, 89337-048
+Rua Paraíba, Enseada, São Francisco do Sul, SC, 89337-046
+Rua Paraná, Enseada, São Francisco do Sul, SC, 89337-016
+Rua Pernambuco, Enseada, São Francisco do Sul, SC, 89337-020
+Rua Piauí, Enseada, São Francisco do Sul, SC, 89337-050
+Rua Porto Alegre, Enseada, São Francisco do Sul, SC, 89337-084
+Rua Recife, Enseada, São Francisco do Sul, SC, 89337-086
+Rua Rio Branco, Enseada, São Francisco do Sul, SC, 89337-022
+Rua Rio de Janeiro, Enseada, São Francisco do Sul, SC, 89337-074
+Rua Rio Grande do Sul, Enseada, São Francisco do Sul, SC, 89337-052
+Rua Rondônia, Enseada, São Francisco do Sul, SC, 89337-058
+Rua Roraima, Enseada, São Francisco do Sul, SC, 89337-006
+Rua Salvador, Enseada, São Francisco do Sul, SC, 89337-090
+Rua São Luiz, Enseada, São Francisco do Sul, SC, 89337-088
+Rua São Paulo, Enseada, São Francisco do Sul, SC, 89337-008
+Rua Sergipe, Enseada, São Francisco do Sul, SC, 89337-040
+Rua Teresina, Enseada, São Francisco do Sul, SC, 89337-092
+Travessa Amazonas, Enseada, São Francisco do Sul, SC, 89337-010
+Travessa Belarmino Nogueira, Enseada, São Francisco do Sul, SC, 89337-001
+Rodovia Olívio Nóbrega, Morro Grande, São Francisco do Sul, SC, 89330-830
+Rua Amizade, Morro Grande, São Francisco do Sul, SC, 89331-095
+Rua Antônio Machado, Morro Grande, São Francisco do Sul, SC, 89330-833
+Rua Carlos Marquardt, Morro Grande, São Francisco do Sul, SC, 89331-021
+Rua Celestino Ribeiro, Morro Grande, São Francisco do Sul, SC, 89330-851
+Rua Edir Ângelo da Silva, Morro Grande, São Francisco do Sul, SC, 89331-012
+Rua Esperança, Morro Grande, São Francisco do Sul, SC, 89331-089
+Rua Ewaldo Hennig, Morro Grande, São Francisco do Sul, SC, 89331-018
+Rua Felicidade, Morro Grande, São Francisco do Sul, SC, 89331-092
+Rua João Martins de Chagas, Morro Grande, São Francisco do Sul, SC, 89331-080
+Rua Leopoldo Manoel da Silva, Morro Grande, São Francisco do Sul, SC, 89331-027
+Rua Linda Nickel Fischer, Morro Grande, São Francisco do Sul, SC, 89331-083
+Rua Max Lebowski, Morro Grande, São Francisco do Sul, SC, 89331-000
+Rua Nelson Fischer, Morro Grande, São Francisco do Sul, SC, 89331-086
+Rua Rosalvo Quirino da Silva, Morro Grande, São Francisco do Sul, SC, 89331-030
+Rua Werner Passold, Morro Grande, São Francisco do Sul, SC, 89330-854
+Servidão Manoel Antônio da Silva, Morro Grande, São Francisco do Sul, SC, 89331-024
+Servidão Margarida Carvalho Veloso, Morro Grande, São Francisco do Sul, SC, 89330-858
+Rodovia Duque de Caxias, Reta, São Francisco do Sul, SC, 89333-510
+Rua Acácia Amarela, Reta, São Francisco do Sul, SC, 89333-636
+Rua Alayde Maria de Oliveira, Reta, São Francisco do Sul, SC, 89333-775
+Rua Amario Estevão Coelho, Reta, São Francisco do Sul, SC, 89333-663
+Rua Arcelina Portela da Rocha, Reta, São Francisco do Sul, SC, 89333-633
+Rua Augusto Rocha da Silva, Reta, São Francisco do Sul, SC, 89333-675
+Rua Bento Martins Lopes, Reta, São Francisco do Sul, SC, 89333-773
+Rua Benvindo Alves da Silva, Reta, São Francisco do Sul, SC, 89333-700
+Rua Brandina de Souza Batista, Reta, São Francisco do Sul, SC, 89333-740
+Rua Braulio Camargo, Reta, São Francisco do Sul, SC, 89334-010
+Rua Bruno Wogel Filho, Reta, São Francisco do Sul, SC, 89333-534
+Rua Cancílio Pedro de Lima, Reta, São Francisco do Sul, SC, 89333-525
+Rua Clarinda Gonçalves, Reta, São Francisco do Sul, SC, 89333-531
+Rua Dalvanira Maria do Nascimento, Reta, São Francisco do Sul, SC, 89334-013
+Rua Dosolina Franchini da Rocha, Reta, São Francisco do Sul, SC, 89333-672
+Rua Espedita Rodrigues de Oliveira, Reta, São Francisco do Sul, SC, 89333-849
+Rua Fermino Gorll, Reta, São Francisco do Sul, SC, 89333-558
+Rua Francisco Mascarenhas, Reta, São Francisco do Sul, SC, 89333-840
+Rua Givaldo Nunes da Mota, Reta, São Francisco do Sul, SC, 89333-630
+Rua Henrique João da Silva, Reta, São Francisco do Sul, SC, 89333-555
+Rua Hildebrando Reis, Reta, São Francisco do Sul, SC, 89333-843
+Rua Hugo Rocha Alves, Reta, São Francisco do Sul, SC, 89333-806
+Rua João Alemão, Reta, São Francisco do Sul, SC, 89333-770
+Rua João André, Reta, São Francisco do Sul, SC, 89333-519
+Rua João Tolentino Siqueira, Reta, São Francisco do Sul, SC, 89333-785
+Rua José Camilo da Silva, Reta, São Francisco do Sul, SC, 89333-513
+Rua Luiz José Marcelino, Reta, São Francisco do Sul, SC, 89333-743
+Rua Maria Francelina da Silva Soares, Reta, São Francisco do Sul, SC, 89333-782
+Rua Maria Inolina de Camargo Silva, Reta, São Francisco do Sul, SC, 89333-516
+Rua Marli Cardoso, Reta, São Francisco do Sul, SC, 89333-621
+Rua Plácido Luciano da Silva, Reta, São Francisco do Sul, SC, 89333-852
+Rua Prefeito Flavio G de Camargo, Reta, São Francisco do Sul, SC, 89333-624
+Rua Prefeito José Schimidt, Reta, São Francisco do Sul, SC, 89333-627
+Rua Santa Clara de Assis, Reta, São Francisco do Sul, SC, 89333-846
+Rua Sebastião Valdomiro Ferreira da Rocha, Reta, São Francisco do Sul, SC, 89333-600
+Rua Simião de Mira, Reta, São Francisco do Sul, SC, 89333-794
+Servidão Avanir Lúcia de Lima Alves, Reta, São Francisco do Sul, SC, 89333-528
+Servidão José Casiano Forte, Reta, São Francisco do Sul, SC, 89333-662
+Servidão José Lino Dias, Reta, São Francisco do Sul, SC, 89333-543
+Servidão Pedro Alexandre da Costa, Reta, São Francisco do Sul, SC, 89333-669
+Servidão Pedro Rocha dos Santos, Reta, São Francisco do Sul, SC, 89333-788
+Servidão São Francisco de Assis, Reta, São Francisco do Sul, SC, 89333-570
+Avenida José Raimundo Batista, Vila da Glória, São Francisco do Sul, SC, 89331-650
+Rua Almerinda Alves Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-173
+Rua Ana Luiza de Jesus, Vila da Glória, São Francisco do Sul, SC, 89331-820
+Rua Antônio de Barros, Vila da Glória, São Francisco do Sul, SC, 89331-653
+Rua Arara-Azul, Vila da Glória, São Francisco do Sul, SC, 89332-090
+Rua Arlindo Hartelt, Vila da Glória, São Francisco do Sul, SC, 89332-250
+Rua Aurélio Alves Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-179
+Rua Caranguejo, Vila da Glória, São Francisco do Sul, SC, 89331-832
+Rua Carlos Leão da Silva, Vila da Glória, São Francisco do Sul, SC, 89331-656
+Rua Clemência Gonçalves de Souza Tavares, Vila da Glória, São Francisco do Sul, SC, 89332-210
+Rua Dalsisa Costa Baptista, Vila da Glória, São Francisco do Sul, SC, 89331-784
+Rua David Modesto da Costa, Vila da Glória, São Francisco do Sul, SC, 89331-659
+Rua do Pescador, Vila da Glória, São Francisco do Sul, SC, 89331-790
+Rua Euzebio Nascimento Silveira, Vila da Glória, São Francisco do Sul, SC, 89332-102
+Rua Getúlio Reis, Vila da Glória, São Francisco do Sul, SC, 89331-652
+Rua Jaci de Borba Batista, Vila da Glória, São Francisco do Sul, SC, 89331-668
+Rua Jaime Belo da Cunha, Vila da Glória, São Francisco do Sul, SC, 89332-269
+Rua João Correa da Silva, Vila da Glória, São Francisco do Sul, SC, 89331-662
+Rua João do Carmo Dias, Vila da Glória, São Francisco do Sul, SC, 89331-799
+Rua João Marcelino Pinto, Vila da Glória, São Francisco do Sul, SC, 89331-802
+Rua Jorge Alves Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-290
+Rua José Dobrotinick, Vila da Glória, São Francisco do Sul, SC, 89331-677
+Rua José Gomes Correa, Vila da Glória, São Francisco do Sul, SC, 89332-320
+Rua José Marcelino Speck, Vila da Glória, São Francisco do Sul, SC, 89331-890
+Rua José Ribeiro Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-295
+Rua Leon Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-170
+Rua Leon Ledoux 151, Vila da Glória, São Francisco do Sul, SC, 89332-970
+Rua Lídia Alves de Souza, Vila da Glória, São Francisco do Sul, SC, 89331-769
+Rua Lindolfo de Freitas Ledoux, Vila da Glória, São Francisco do Sul, SC, 89331-760
+Rua Luciana Gomes, Vila da Glória, São Francisco do Sul, SC, 89332-108
+Rua Luiz Alves Maia, Vila da Glória, São Francisco do Sul, SC, 89332-338
+Rua Luiz Vergílio Wildner, Vila da Glória, São Francisco do Sul, SC, 89331-781
+Rua Manoel Domingos de Borba, Vila da Glória, São Francisco do Sul, SC, 89332-120
+Rua Maria Aparecida Tavares Borba, Vila da Glória, São Francisco do Sul, SC, 89332-220
+Rua Maria da Graça Hartelt Cunha, Vila da Glória, São Francisco do Sul, SC, 89332-263
+Rua Maria Hilda Leite, Vila da Glória, São Francisco do Sul, SC, 89332-233
+Rua Mário Avancini, Vila da Glória, São Francisco do Sul, SC, 89331-698
+Rua Marli Maria de Souza, Vila da Glória, São Francisco do Sul, SC, 89332-008
+Rua Orlando Marcilino Borba, Vila da Glória, São Francisco do Sul, SC, 89332-036
+Rua Osmar Martim, Vila da Glória, São Francisco do Sul, SC, 89331-681
+Rua Osvaldo Krüger, Vila da Glória, São Francisco do Sul, SC, 89332-230
+Rua Parati, Vila da Glória, São Francisco do Sul, SC, 89331-778
+Rua Parú, Vila da Glória, São Francisco do Sul, SC, 89331-841
+Rua Pedro Silveira Kruger, Vila da Glória, São Francisco do Sul, SC, 89331-779
+Rua Pureza Ledoux Maia Kruger, Vila da Glória, São Francisco do Sul, SC, 89331-785
+Rua Rio Caldeira, Vila da Glória, São Francisco do Sul, SC, 89331-689
+Rua Rivadávio Antônio Ribeiro, Vila da Glória, São Francisco do Sul, SC, 89331-796
+Rua Robalo, Vila da Glória, São Francisco do Sul, SC, 89331-805
+Rua Sezefredo de Souza Tavares, Vila da Glória, São Francisco do Sul, SC, 89331-775
+Rua Tereza de Souza Dias, Vila da Glória, São Francisco do Sul, SC, 89331-838
+Rua Theodoro Antônio de Oliveira, Vila da Glória, São Francisco do Sul, SC, 89332-050
+Rua Valdemiro Serafim de Borba, Vila da Glória, São Francisco do Sul, SC, 89331-766
+Servidão Antônio Vitor de Souza, Vila da Glória, São Francisco do Sul, SC, 89332-099
+Servidão Aroldo Hartelt da Cunha, Vila da Glória, São Francisco do Sul, SC, 89332-260
+Servidão Artur Alves Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-185
+Servidão Carlos de Carvalho, Vila da Glória, São Francisco do Sul, SC, 89331-883
+Servidão Cedália Borba de Souza, Vila da Glória, São Francisco do Sul, SC, 89332-172
+Servidão Francisco Alexandre dos Santos, Vila da Glória, São Francisco do Sul, SC, 89332-121
+Servidão Generosa da Cunha, Vila da Glória, São Francisco do Sul, SC, 89332-275
+Servidão Humberto Moacir Lopes Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-096
+Servidão Ivo Galdino da Rocha, Vila da Glória, São Francisco do Sul, SC, 89332-270
+Servidão João Carvalho Ledoux, Vila da Glória, São Francisco do Sul, SC, 89332-298
+Servidão José Osório de Souza, Vila da Glória, São Francisco do Sul, SC, 89332-191
+Servidão Josias Tavares Carneiro, Vila da Glória, São Francisco do Sul, SC, 89331-844
+Servidão Levi Mattos, Vila da Glória, São Francisco do Sul, SC, 89331-884
+Servidão Lucas Gabriel Maçaneiro, Vila da Glória, São Francisco do Sul, SC, 89331-795
+Servidão Manoel Galdino, Vila da Glória, São Francisco do Sul, SC, 89331-817
+Servidão Manoel José Joaquim, Vila da Glória, São Francisco do Sul, SC, 89332-117
+Servidão Maria Stella Vick, Vila da Glória, São Francisco do Sul, SC, 89332-299
+Servidão Orlando Kruger, Vila da Glória, São Francisco do Sul, SC, 89332-229
+Servidão Pescador José Soares Alves, Vila da Glória, São Francisco do Sul, SC, 89331-772
+Servidão Professora Maria da Graça Maia Machado, Vila da Glória, São Francisco do Sul, SC, 89331-787
+Travessa Antônio João da Rosa, Vila da Glória, São Francisco do Sul, SC, 89331-847
+Rodovia Duque de Caxias, Iperoba, São Francisco do Sul, SC, 89334-070
+Rua Abílio dos Passos Junior, Iperoba, São Francisco do Sul, SC, 89334-168
+Rua Alegria, Iperoba, São Francisco do Sul, SC, 89334-536
+Rua Amor, Iperoba, São Francisco do Sul, SC, 89334-539
+Rua Anazário de Braga, Iperoba, São Francisco do Sul, SC, 89334-279
+Rua Antônio Gavasso Berlato, Iperoba, São Francisco do Sul, SC, 89334-261
+Rua Antônio Sabino de Oliveira, Iperoba, São Francisco do Sul, SC, 89334-427
+Rua Bambu, Iperoba, São Francisco do Sul, SC, 89334-457
+Rua Canarinho, Iperoba, São Francisco do Sul, SC, 89334-159
+Rua Canuto Vieira, Iperoba, São Francisco do Sul, SC, 89334-439
+Rua Cláudio Matias de Souza, Iperoba, São Francisco do Sul, SC, 89334-492
+Rua Conceição Carvalho de Oliveira, Iperoba, São Francisco do Sul, SC, 89334-297
+Rua das Bromélias, Iperoba, São Francisco do Sul, SC, 89334-259
+Rua David Machado Cidral, Iperoba, São Francisco do Sul, SC, 89334-088
+Rua Domingos Lealdini, Iperoba, São Francisco do Sul, SC, 89334-448
+Rua dos Laranjais, Iperoba, São Francisco do Sul, SC, 89334-249
+Rua Eliomar Dias Bello de Castilho, Iperoba, São Francisco do Sul, SC, 89334-126
+Rua Evaldo Cevinscki, Iperoba, São Francisco do Sul, SC, 89334-340
+Rua Felipe Musse, Iperoba, São Francisco do Sul, SC, 89334-530
+Rua Florêncio Custódio Daniel, Iperoba, São Francisco do Sul, SC, 89334-129
+Rua Francisco Olher, Iperoba, São Francisco do Sul, SC, 89334-489
+Rua Gratidão, Iperoba, São Francisco do Sul, SC, 89334-545
+Rua Guilherme Luis Winter, Iperoba, São Francisco do Sul, SC, 89334-040
+Rua Hailton Roberto de Souza, Iperoba, São Francisco do Sul, SC, 89334-358
+Rua Israel, Iperoba, São Francisco do Sul, SC, 89334-504
+Rua Itamundi II, Iperoba, São Francisco do Sul, SC, 89334-480
+Rua Jamaica, Iperoba, São Francisco do Sul, SC, 89334-495
+Rua Japão, Iperoba, São Francisco do Sul, SC, 89334-498
+Rua Jequitibá, Iperoba, São Francisco do Sul, SC, 89334-212
+Rua João Apolinário dos Santos, Iperoba, São Francisco do Sul, SC, 89334-156
+Rua João Avelino Cidral, Iperoba, São Francisco do Sul, SC, 89334-076
+Rua João Francisco de Moura, Iperoba, São Francisco do Sul, SC, 89334-403
+Rua João Paulo II, Iperoba, São Francisco do Sul, SC, 89334-153
+Rua Jorge Vilmar Kaizer de Deus, Iperoba, São Francisco do Sul, SC, 89334-346
+Rua José Gabriel da Silva, Iperoba, São Francisco do Sul, SC, 89334-486
+Rua Laudete Egger dos Santos, Iperoba, São Francisco do Sul, SC, 89334-460
+Rua Lauro Fernandes Pinto, Iperoba, São Francisco do Sul, SC, 89334-349
+Rua Leonor Ana Grabowski, Iperoba, São Francisco do Sul, SC, 89334-270
+Rua Linus Jacob Vier, Iperoba, São Francisco do Sul, SC, 89334-436
+Rua Maria Dias Bello Castilho, Iperoba, São Francisco do Sul, SC, 89334-165
+Rua Melchiades Dias Bello, Iperoba, São Francisco do Sul, SC, 89334-079
+Rua Palmito Juçara, Iperoba, São Francisco do Sul, SC, 89334-257
+Rua Pastor Carlos de Miranda, Iperoba, São Francisco do Sul, SC, 89334-343
+Rua Paz, Iperoba, São Francisco do Sul, SC, 89334-533
+Rua Pedro Grabowiski, Iperoba, São Francisco do Sul, SC, 89334-288
+Rua Placido Petersen, Iperoba, São Francisco do Sul, SC, 89334-463
+Rua Professora Maria Stella Martins, Iperoba, São Francisco do Sul, SC, 89334-132
+Rua Prosperidade, Iperoba, São Francisco do Sul, SC, 89334-548
+Rua Rafael Niada, Iperoba, São Francisco do Sul, SC, 89334-300
+Rua Raul Vanini, Iperoba, São Francisco do Sul, SC, 89334-082
+Rua Ricardo de Castilho, Iperoba, São Francisco do Sul, SC, 89334-123
+Rua Rita Fernandes dos Santos, Iperoba, São Francisco do Sul, SC, 89334-120
+Rua Severino de Braga, Iperoba, São Francisco do Sul, SC, 89334-174
+Rua Simão Piaz, Iperoba, São Francisco do Sul, SC, 89334-400
+Rua Sucesso, Iperoba, São Francisco do Sul, SC, 89334-542
+Rua Valdomiro Pinheiro, Iperoba, São Francisco do Sul, SC, 89334-445
+Rua Victor Maia de Araújo, Iperoba, São Francisco do Sul, SC, 89334-200
+Rua Walderes Morzele Antunes, Iperoba, São Francisco do Sul, SC, 89334-355
+Rua Wili Schmitz, Iperoba, São Francisco do Sul, SC, 89334-240
+Rua Zaida Calicci de Melo, Iperoba, São Francisco do Sul, SC, 89334-501
+Servidão Alcides Ignacio, Iperoba, São Francisco do Sul, SC, 89334-046
+Servidão Cidreira, Iperoba, São Francisco do Sul, SC, 89334-203
+Servidão Flamboyant, Iperoba, São Francisco do Sul, SC, 89334-209
+Servidão Hortência de Castilho Braga, Iperoba, São Francisco do Sul, SC, 89334-273
+Servidão José Carlos Bittencourt, Iperoba, São Francisco do Sul, SC, 89334-442
+Servidão Luciano Massaneiro Piaz, Iperoba, São Francisco do Sul, SC, 89334-454
+Servidão Pedro Laercio Martins, Iperoba, São Francisco do Sul, SC, 89334-043
+Servidão Santa Luzia, Iperoba, São Francisco do Sul, SC, 89334-451
+Servidão São Chico, Iperoba, São Francisco do Sul, SC, 89334-254
+Travessa das Aroeiras, Iperoba, São Francisco do Sul, SC, 89334-409
+Travessa das Goiabeiras, Iperoba, São Francisco do Sul, SC, 89334-412
+Travessa do Abacateiro, Iperoba, São Francisco do Sul, SC, 89334-406
+Travessa do Ingá, Iperoba, São Francisco do Sul, SC, 89334-415
+Rodovia Duque de Caxias, Paulas, São Francisco do Sul, SC, 89333-280
+Rodovia Olívio Nóbrega, Paulas, São Francisco do Sul, SC, 89333-203
+Rua Antônio da Silva, Paulas, São Francisco do Sul, SC, 89333-350
+Rua Avelino Candido de Souza, Paulas, São Francisco do Sul, SC, 89333-426
+Rua Bela Vista, Paulas, São Francisco do Sul, SC, 89333-200
+Rua Bertoldo Ignásio de Amorim, Paulas, São Francisco do Sul, SC, 89333-224
+Rua Calixto Pereira Lima, Paulas, São Francisco do Sul, SC, 89333-245
+Rua Candido Silva, Paulas, São Francisco do Sul, SC, 89333-301
+Rua Florinda Caetano, Paulas, São Francisco do Sul, SC, 89333-423
+Rua Francisco Mascarenhas, Paulas, São Francisco do Sul, SC, 89333-215
+Rua Gentil Emitério dos Santos, Paulas, São Francisco do Sul, SC, 89333-402
+Rua Hercílio Cordeiro Ramos, Paulas, São Francisco do Sul, SC, 89333-313
+Rua João Budal Arins, Paulas, São Francisco do Sul, SC, 89333-408
+Rua João Galdino Rocha, Paulas, São Francisco do Sul, SC, 89333-233
+Rua João Machado Pereira, Paulas, São Francisco do Sul, SC, 89333-283
+Rua Jordão Vieira, Paulas, São Francisco do Sul, SC, 89333-257
+Rua José Clemente dos Reis, Paulas, São Francisco do Sul, SC, 89333-365
+Rua José da Conceição, Paulas, São Francisco do Sul, SC, 89333-399
+Rua Jubim da Cunha Alcantara, Paulas, São Francisco do Sul, SC, 89333-227
+Rua Leopoldo Rosa, Paulas, São Francisco do Sul, SC, 89333-239
+Rua Maria Magdalena de Aguiar Vieira, Paulas, São Francisco do Sul, SC, 89333-230
+Rua Mario Benjamin Robaina, Paulas, São Francisco do Sul, SC, 89333-221
+Rua Matilde F Furtado, Paulas, São Francisco do Sul, SC, 89333-429
+Rua Melício Francisco Dias, Paulas, São Francisco do Sul, SC, 89333-316
+Rua Moisés Emitério dos Santos, Paulas, São Francisco do Sul, SC, 89333-396
+Rua Osnildo Bruno Pereira, Paulas, São Francisco do Sul, SC, 89333-307
+Rua Pedro Paulo de Amorim, Paulas, São Francisco do Sul, SC, 89333-242
+Rua Querino Desidério Gonçalves, Paulas, São Francisco do Sul, SC, 89333-390
+Rua Serzedelo Machado, Paulas, São Francisco do Sul, SC, 89333-248
+Rua Silvio Eduardo de Braga, Paulas, São Francisco do Sul, SC, 89333-435
+Rua Sophia Amara Cardoso dos Santos, Paulas, São Francisco do Sul, SC, 89333-359
+Rua Tenente José Macário dos Santos, Paulas, São Francisco do Sul, SC, 89333-254
+Rua Vereador Sálvio Amado de Oliveira, Paulas, São Francisco do Sul, SC, 89333-218
+Rua Virgilio Machado Cidral, Paulas, São Francisco do Sul, SC, 89333-393
+Servidão Apparecida Florian Araujo, Paulas, São Francisco do Sul, SC, 89333-243
+Servidão Gomercindo Ayres Muller, Paulas, São Francisco do Sul, SC, 89333-405
+Servidão Henrique Gomes, Paulas, São Francisco do Sul, SC, 89333-368
+Servidão José Tillmann, Paulas, São Francisco do Sul, SC, 89333-411
+Servidão Luiz Soares, Paulas, São Francisco do Sul, SC, 89333-417
+Servidão Manoel de Carvalho, Paulas, São Francisco do Sul, SC, 89333-319
+Servidão Morro do Sabiá, Paulas, São Francisco do Sul, SC, 89333-310
+Servidão Nair Dias Veloso, Paulas, São Francisco do Sul, SC, 89333-304
+Servidão Ondina de Oliveira Gomes, Paulas, São Francisco do Sul, SC, 89333-371
+Servidão Roberto Machado Pedroso, Paulas, São Francisco do Sul, SC, 89333-438
+Travessa Ugê Truppel, Paulas, São Francisco do Sul, SC, 89333-209
+Alameda Ipiranga, Rocio Grande, São Francisco do Sul, SC, 89331-120
+Avenida das Rosas, Rocio Grande, São Francisco do Sul, SC, 89331-451
+Avenida das Rosas, Rocio Grande, São Francisco do Sul, SC, 89331-454
+Avenida Klaus Foerster, Rocio Grande, São Francisco do Sul, SC, 89331-430
+Avenida Nereu Ramos, Rocio Grande, São Francisco do Sul, SC, 89331-123
+Avenida Nereu Ramos, Rocio Grande, São Francisco do Sul, SC, 89331-260
+Avenida Nogueira, Rocio Grande, São Francisco do Sul, SC, 89331-156
+Rodovia Olívio Nóbrega, Rocio Grande, São Francisco do Sul, SC, 89331-183
+Rua 1º de Maio, Rocio Grande, São Francisco do Sul, SC, 89331-147
+Rua Agenor Silva, Rocio Grande, São Francisco do Sul, SC, 89331-231
+Rua Antônio Machado, Rocio Grande, São Francisco do Sul, SC, 89331-207
+Rua Armando Pacheco, Rocio Grande, São Francisco do Sul, SC, 89331-213
+Rua Augusto Hermam Ludvig, Rocio Grande, São Francisco do Sul, SC, 89331-198
+Rua Braz Sebastião Miano, Rocio Grande, São Francisco do Sul, SC, 89331-263
+Rua das Alfazemas, Rocio Grande, São Francisco do Sul, SC, 89331-439
+Rua das Azaléias, Rocio Grande, São Francisco do Sul, SC, 89331-460
+Rua das Begonias, Rocio Grande, São Francisco do Sul, SC, 89331-433
+Rua das Camélias, Rocio Grande, São Francisco do Sul, SC, 89331-396
+Rua das Dálias, Rocio Grande, São Francisco do Sul, SC, 89331-399
+Rua das Hortências, Rocio Grande, São Francisco do Sul, SC, 89331-466
+Rua das Madressilvas, Rocio Grande, São Francisco do Sul, SC, 89331-390
+Rua das Magnólias, Rocio Grande, São Francisco do Sul, SC, 89331-472
+Rua das Tulipas, Rocio Grande, São Francisco do Sul, SC, 89331-393
+Rua do Martelo, Rocio Grande, São Francisco do Sul, SC, 89331-165
+Rua dos Botões de Ouro, Rocio Grande, São Francisco do Sul, SC, 89331-436
+Rua dos Delfinos, Rocio Grande, São Francisco do Sul, SC, 89331-402
+Rua dos Dentes de Leao, Rocio Grande, São Francisco do Sul, SC, 89331-405
+Rua dos Geranios, Rocio Grande, São Francisco do Sul, SC, 89331-408
+Rua dos Girassóis, Rocio Grande, São Francisco do Sul, SC, 89331-463
+Rua dos Jasmins, Rocio Grande, São Francisco do Sul, SC, 89331-457
+Rua dos Lírios, Rocio Grande, São Francisco do Sul, SC, 89331-469
+Rua Doutor Manoel Antonio Bueno, Rocio Grande, São Francisco do Sul, SC, 89331-138
+Rua Emmanuel Gomes, Rocio Grande, São Francisco do Sul, SC, 89331-192
+Rua Francisco Wolke, Rocio Grande, São Francisco do Sul, SC, 89331-153
+Rua Frei Martinho, Rocio Grande, São Francisco do Sul, SC, 89331-228
+Rua Gertrudes Sanches Lunardon, Rocio Grande, São Francisco do Sul, SC, 89331-204
+Rua João Bonifácio Corrêa, Rocio Grande, São Francisco do Sul, SC, 89331-180
+Rua João Mór Vieira, Rocio Grande, São Francisco do Sul, SC, 89331-219
+Rua João Pereira Liberato, Rocio Grande, São Francisco do Sul, SC, 89331-225
+Rua Joinville, Rocio Grande, São Francisco do Sul, SC, 89331-186
+Rua Jordão Cantídio da Silva, Rocio Grande, São Francisco do Sul, SC, 89331-281
+Rua Jordão Cantídio da Silva, Rocio Grande, São Francisco do Sul, SC, 89331-287
+Rua Jorge da Costa, Rocio Grande, São Francisco do Sul, SC, 89331-158
+Rua José Justino da Silva, Rocio Grande, São Francisco do Sul, SC, 89331-493
+Rua José Justino Rosa, Rocio Grande, São Francisco do Sul, SC, 89331-222
+Rua Leônidas Branco, Rocio Grande, São Francisco do Sul, SC, 89331-129
+Rua Levino Cabral Moreira, Rocio Grande, São Francisco do Sul, SC, 89331-216
+Rua Maria Alves Mendes Cardoso, Rocio Grande, São Francisco do Sul, SC, 89331-499
+Rua Maria Paun, Rocio Grande, São Francisco do Sul, SC, 89331-269
+Rua Mário Roberto Robaina, Rocio Grande, São Francisco do Sul, SC, 89331-141
+Rua Norberto Nunes da Silva, Rocio Grande, São Francisco do Sul, SC, 89331-323
+Rua Paulo da Costa Pereira, Rocio Grande, São Francisco do Sul, SC, 89331-132
+Rua Paulo Maurício Douat, Rocio Grande, São Francisco do Sul, SC, 89331-278
+Rua Presbítero João Leite, Rocio Grande, São Francisco do Sul, SC, 89331-195
+Rua Professora Maria José Chaves Rover, Rocio Grande, São Francisco do Sul, SC, 89331-496
+Rua Roberto Armando Hartmann Robaina, Rocio Grande, São Francisco do Sul, SC, 89331-135
+Rua Sacerdote Salvador Gomes de Oliveira, Rocio Grande, São Francisco do Sul, SC, 89331-562
+Rua Vereador João Marcelino, Rocio Grande, São Francisco do Sul, SC, 89331-553
+Rua Walter Rhinow, Rocio Grande, São Francisco do Sul, SC, 89331-490
+Servidão José Ferreira Guerra, Rocio Grande, São Francisco do Sul, SC, 89331-171
+Servidão José Ivo da Silva, Rocio Grande, São Francisco do Sul, SC, 89331-290
+Servidão Manoel José Vicente, Rocio Grande, São Francisco do Sul, SC, 89331-550
+Avenida Barão do Rio Branco, São José do Acaraí, São Francisco do Sul, SC, 89330-333
+Avenida Barão do Rio Branco 424 Clique e Retire Correios, São José do Acaraí, São Francisco do Sul, SC, 89330-959
+Avenida Barão do Rio Branco 424, São José do Acaraí, São Francisco do Sul, SC, 89330-970
+Avenida Barão do Rio Branco 424, São José do Acaraí, São Francisco do Sul, SC, 89330-973
+Rodovia Duque de Caxias, São José do Acaraí, São Francisco do Sul, SC, 89330-282
+Rodovia Olívio Nóbrega, São José do Acaraí, São Francisco do Sul, SC, 89330-279
+Rua Ailton da Silva, São José do Acaraí, São Francisco do Sul, SC, 89330-258
+Rua Alceu Batista dos Santos, São José do Acaraí, São Francisco do Sul, SC, 89330-264
+Rua Alfredo Antônio Cardoso, São José do Acaraí, São Francisco do Sul, SC, 89330-267
+Rua Anacleto Lauro de Borba, São José do Acaraí, São Francisco do Sul, SC, 89330-399
+Rua Ângelo Brehnn, São José do Acaraí, São Francisco do Sul, SC, 89330-246
+Rua Antônio Gonçalves de Oliveira, São José do Acaraí, São Francisco do Sul, SC, 89330-459
+Rua Antônio Jonas Lopes, São José do Acaraí, São Francisco do Sul, SC, 89330-390
+Rua Aurélio Maia, São José do Acaraí, São Francisco do Sul, SC, 89330-255
+Rua Binot Paulmier de Goneville, São José do Acaraí, São Francisco do Sul, SC, 89330-450
+Rua Concílio Rosa, São José do Acaraí, São Francisco do Sul, SC, 89330-408
+Rua das Flores, São José do Acaraí, São Francisco do Sul, SC, 89330-375
+Rua Don Fernando Trejo Y Sanabria, São José do Acaraí, São Francisco do Sul, SC, 89330-330
+Rua dos Estivadores, São José do Acaraí, São Francisco do Sul, SC, 89330-216
+Rua Etelvino Quintino dos Santos, São José do Acaraí, São Francisco do Sul, SC, 89330-372
+Rua Fabrício Maia Moreira, São José do Acaraí, São Francisco do Sul, SC, 89330-228
+Rua Flodoaldo Nóbrega, São José do Acaraí, São Francisco do Sul, SC, 89330-222
+Rua Franklin de Oliveira, São José do Acaraí, São Francisco do Sul, SC, 89330-231
+Rua Guilherme Vieira Miranda Bieging, São José do Acaraí, São Francisco do Sul, SC, 89330-261
+Rua Hercílio Braulio Corrêa, São José do Acaraí, São Francisco do Sul, SC, 89330-453
+Rua Hermínio Vieira, São José do Acaraí, São Francisco do Sul, SC, 89330-363
+Rua Hilário José de Medeiros, São José do Acaraí, São Francisco do Sul, SC, 89330-345
+Rua Içá-Mirim, São José do Acaraí, São Francisco do Sul, SC, 89330-285
+Rua Joaquim José da Silveira Junior, São José do Acaraí, São Francisco do Sul, SC, 89330-354
+Rua Joinville, São José do Acaraí, São Francisco do Sul, SC, 89330-387
+Rua Joinville, São José do Acaraí, São Francisco do Sul, SC, 89330-402
+Rua Leopoldo Bernardo Grubba, São José do Acaraí, São Francisco do Sul, SC, 89330-225
+Rua Lindomar Souza, São José do Acaraí, São Francisco do Sul, SC, 89330-360
+Rua Luciano Branco, São José do Acaraí, São Francisco do Sul, SC, 89330-393
+Rua Manoel Fernandes dos Reis, São José do Acaraí, São Francisco do Sul, SC, 89330-396
+Rua Manoel Gomes Rittes, São José do Acaraí, São Francisco do Sul, SC, 89330-405
+Rua Manoel João de Simas, São José do Acaraí, São Francisco do Sul, SC, 89330-366
+Rua Odásio do Rosário, São José do Acaraí, São Francisco do Sul, SC, 89330-213
+Rua Pastor Antônio Dominoni, São José do Acaraí, São Francisco do Sul, SC, 89330-273
+Rua Pedro Dionísio da Luz, São José do Acaraí, São Francisco do Sul, SC, 89330-276
+Rua Professor Aldo Possamai, São José do Acaraí, São Francisco do Sul, SC, 89330-348
+Rua Professor Gil Fernandes, São José do Acaraí, São Francisco do Sul, SC, 89330-291
+Rua Rodrigues Cavalinho, São José do Acaraí, São Francisco do Sul, SC, 89330-339
+Rua Rosa Lilia de Oliveira, São José do Acaraí, São Francisco do Sul, SC, 89330-243
+Rua Sidenei Francisco Campos, São José do Acaraí, São Francisco do Sul, SC, 89330-462
+Rua Silvestre Malaquias, São José do Acaraí, São Francisco do Sul, SC, 89330-477
+Rua Tranquilino Furtunato Alves, São José do Acaraí, São Francisco do Sul, SC, 89330-237
+Rua Vagner Vicente da Costa - Galego, São José do Acaraí, São Francisco do Sul, SC, 89330-234
+Rua Vereadora Ruth Nobrega Matinez, São José do Acaraí, São Francisco do Sul, SC, 89330-240
+Rua Vicente Rampellotti, São José do Acaraí, São Francisco do Sul, SC, 89330-465
+Rua Vicente Souza de Oliveira, São José do Acaraí, São Francisco do Sul, SC, 89330-249
+Servidão Pompeu Machado, São José do Acaraí, São Francisco do Sul, SC, 89330-378
+Travessa Amélia de Almeida Barros, São José do Acaraí, São Francisco do Sul, SC, 89330-219
+Travessa Anísio Ferreira Conceição, São José do Acaraí, São Francisco do Sul, SC, 89330-252
+Travessa José Caetano Pereira, São José do Acaraí, São Francisco do Sul, SC, 89330-270
+Travessa Laura de Campos Lobo, São José do Acaraí, São Francisco do Sul, SC, 89330-342
+Travessa Prático Pedro Pereira Lima, São José do Acaraí, São Francisco do Sul, SC, 89330-336
