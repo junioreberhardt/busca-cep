@@ -12,6 +12,10 @@ body {
 .container {
     margin: auto;
     max-width: 50rem;
+
+    img {
+        width: 50%;
+    }
 }
 
 .search-group {
